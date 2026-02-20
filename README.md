@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Christian 👋
 
-<!--
-**csbreivik/csbreivik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-focused developer based in Bergen.
 
-Here are some ideas to get you started:
+I enjoy building structured, modular UI systems and exploring complex frontend architecture.  
+Currently deep-diving into Vue 3 and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+- HTML, CSS, JavaScript (ES6+)
+- React
+- Vue 3 (active focus)
+- TypeScript
+- REST APIs
+- Git & GitHub
+
+I actively use AI tools to prototype faster and reason about architecture.
